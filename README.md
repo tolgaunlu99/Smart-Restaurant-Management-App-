@@ -5,7 +5,7 @@ You can download the full project archive (50MB) from the following link:
 [Download from Google Drive](https://drive.google.com/drive/folders/1fR2MUlHl9GQbXTD5S0zQZ26aFTOlSHOY?usp=sharing)
 # Smart-Restaurant-Management-App – Restaurant Management System
 
-Smart-Restaurant-Management-App is a comprehensive and **offline-capable** restaurant management system developed using C#, MSSQL, and Object-Oriented Programming principles. The project eliminates the common shortcomings of popular internet-dependent solutions (e.g., SambaPOS) by providing a robust, responsive, and user-focused application that runs without requiring an internet connection.
+Smart-Restaurant-Management-App is a comprehensive and **offline-capable** restaurant management system developed using C#, MSSQL, and Object-Oriented Programming principles. The project eliminates the common shortcomings of popular internet-dependent solutions (e.g., SambaPOS) by providing a robust, responsive, and user-focused application that runs without requiring an internet connection
 
 ## 🎯 Project Objective
 
